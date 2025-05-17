@@ -3,6 +3,9 @@
 
 This C project implements a two-level hierarchical structure of Palestinian districts and their towns using **doubly linked lists**. The program allows sorting districts alphabetically using **Radix Sort** and sorting towns within each district by population.
 
+## 📸 Screenshots
+![Radix Sort Project](https://raw.githubusercontent.com/Suhaib-Zaid/radix-sort/main/assets/radix-preview.png)
+
 ## 🛠 Features
 - Load and store data from a text file (`districts.txt`)
 - Sort districts alphabetically using Radix Sort
